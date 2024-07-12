@@ -47,7 +47,32 @@ To run the project locally, follow these steps:
    npm start
    ```
 
+---
 
+### Screenshots
 
 ---
+
+<p align="center">
+  <img src="image1.png" alt="" width="800">
+</p>
+<p align="center">
+  <img src="image2.png" alt="" width="800">
+</p>
+<p align="center">
+  <img src="image3.png" alt="" width="800">
+</p>
+<p align="center">
+  <img src="image4.png" alt="" width="800">
+</p>
+## Gameplay Mechanics
+
+- **Correct Answers**: If the player selects the correct option, the game continues, and the player's score increases by 20 points.
+- **Incorrect Answers**: If the player selects an incorrect option, the game ends. The correct answer is revealed, and the final score, along with the maximum score achieved during the session, is displayed.
+<p align="center">
+  <img src="image5.png" alt="" width="800">
+</p>
+
+
+
 
